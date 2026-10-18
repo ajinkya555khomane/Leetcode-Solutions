@@ -16,4 +16,12 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
