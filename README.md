@@ -12,6 +12,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -48,4 +49,12 @@ My LeetCode solutions in Java
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
