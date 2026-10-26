@@ -57,4 +57,13 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
