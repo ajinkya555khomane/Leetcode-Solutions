@@ -8,6 +8,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0001-two-sum](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -92,4 +93,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
