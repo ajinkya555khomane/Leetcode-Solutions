@@ -39,6 +39,7 @@ My LeetCode solutions in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -98,4 +100,12 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
