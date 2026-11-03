@@ -58,6 +58,7 @@ My LeetCode solutions in Java
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
