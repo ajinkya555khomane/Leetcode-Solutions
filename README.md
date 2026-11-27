@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0001-two-sum](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
@@ -23,6 +24,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Linked List
 |  |
@@ -46,6 +48,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/ajinkya555khomane/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
